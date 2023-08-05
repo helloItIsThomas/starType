@@ -1,0 +1,13 @@
+
+[
+  {
+    "time": 0.0,
+    "easing": "expo-out",
+    "pathSlider": 0.0
+  },
+  {
+    "time": 1.0,
+    "easing": "expo-in",
+    "pathSlider": 1.0
+  }
+]
