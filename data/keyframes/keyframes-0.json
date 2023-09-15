@@ -2,12 +2,20 @@
 [
   {
     "time": 0.0,
-    "easing": "expo-out",
-    "pathSlider": 0.0
+    "easing": "quint-in",
+    "pathSlider": 0.666,
+    "lineSlider": 0.0
+  },
+  {
+    "time": 0.5,
+    "easing": "quint-out",
+    "pathSlider": 1.0,
+    "lineSlider": 1.0
   },
   {
     "time": 1.0,
-    "easing": "expo-in",
-    "pathSlider": 1.0
+    "easing": "quint-in-out",
+    "pathSlider": 0.666,
+    "lineSlider": 0.0
   }
 ]

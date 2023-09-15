@@ -30,7 +30,7 @@ val orxFeatures = setOf<String>(
     "orx-image-fit",
 //  "orx-integral-image",
 //  "orx-interval-tree",
-//  "orx-jumpflood",
+  "orx-jumpflood",
 //  "orx-kdtree",
   "orx-keyframer",
 //  "orx-kinect-v1",
